@@ -4,6 +4,9 @@
 .border-eggplat{
     border: 5px solid #6c425B;
 }
+.border-mauve{
+    border: 5px solid #DFC1F3;
+}
 .border-img{
     padding-left: 20%;
     padding-right: 20%;
@@ -13,4 +16,9 @@
 .top-img{
     max-height: 300px;
     padding-bottom: 10px;
+}
+.actual{
+    margin-top: -20px;
+    background-color: white;
+
 }
