@@ -39,7 +39,13 @@ body {
 
 .header-left {
   float: left;
+  line-height: 20px;
 }
+
+#busqueda{
+    float: right;   
+}
+
 
 @media screen and (max-width: 500px) {
   .header a {
