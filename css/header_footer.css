@@ -8,13 +8,14 @@ body {
 .header {
   overflow: hidden;
   background-color: #f1f1f1;
-  padding: 20px 10px;
+  /*padding: 20px 10px;*/
 }
 
 .header a {
   float: top;
   color: black;
   text-align: center;
+  margin-left: 2ch;
   padding: 12px;
   text-decoration: none;
   font-size: 18px; 
@@ -23,18 +24,14 @@ body {
 }
 
 .header a.logo {
+  padding: 10px;
   font-size: 25px;
   font-weight: bold;
 }
 
 .header a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.header a.active {
   background-color: dodgerblue;
-  color: white;
+  color: black;
 }
 
 .header-left {
@@ -42,7 +39,15 @@ body {
   line-height: 20px;
 }
 
+.header-right {
+  background-color: rgb(21, 28, 122);
+}
+
 #busqueda{
+    margin-top: 1ch;
+    margin-bottom: 1ch;
+    margin-right: 1ch;
+    margin-left: 1ch;
     float: right;   
 }
 
@@ -55,6 +60,6 @@ body {
   }
   
   .header-right {
-    float: none;
+    float: left;
   }
 }
