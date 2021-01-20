@@ -11,6 +11,7 @@ body {
   overflow: hidden;
   background-color: #b1eee9;
   /*padding: 20px 10px;*/
+  margin-bottom: 60px;
 }
 
 .header a {
@@ -48,7 +49,7 @@ body {
   padding-left: 10%;
   background-color: #330067;
   border-top: solid 5px #796272;
-  margin-bottom: 60px;
+
 }
 .header-right a{
   background-color: #b1eee9;
