@@ -17,8 +17,13 @@
     max-height: 300px;
     padding-bottom: 10px;
 }
+.bot-img{
+    background-color: white;
+    height: 150px;
+    border: Solid 5px #6c425B;
+}
+
 .actual{
     margin-top: -20px;
     background-color: white;
-
 }
