@@ -48,7 +48,6 @@ body {
   padding-left: 10%;
   background-color: #330067;
   border-top: solid 5px #796272;
-  margin-bottom: 60px;
 }
 .header-right a{
   background-color: #b1eee9;
@@ -73,7 +72,6 @@ footer {
     margin-left: 1ch;
     float: right;   
 }
-
 
 @media screen and (max-width: 500px) {
   .header a {
