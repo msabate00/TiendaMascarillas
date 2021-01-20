@@ -3,6 +3,7 @@
 body { 
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+
 }
 
 .header {
@@ -58,7 +59,11 @@ body {
   background-color: #dff8f6;
   color: black;
 }
-
+footer {
+    background-color: #b1ede8;
+    border-top: Solid 5px #a780fe;
+    padding: 25px;
+  }
 
 #busqueda{
     margin-top: 1ch;
