@@ -44,8 +44,19 @@ body {
 
 .header-right {
   padding-left: 10%;
-  background-color: rgb(21, 28, 122);
+  background-color: #330067;
 }
+.header-right a{
+  background-color: #b1eee9;
+  color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.header-right a:hover{
+  background-color: #dff8f6;
+  color: black;
+}
+
 
 #busqueda{
     margin-top: 1ch;
