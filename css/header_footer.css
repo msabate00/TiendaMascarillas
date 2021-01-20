@@ -8,7 +8,7 @@ body {
 .header {
   box-sizing: border-box;
   overflow: hidden;
-  background-color: #f1f1f1;
+  background-color: #b1eee9;
   /*padding: 20px 10px;*/
 }
 
@@ -25,7 +25,8 @@ body {
 }
 
 .header a.logo {
-  padding: 10px;
+  padding-left: 10%;
+  /*padding: 10px;*/
   font-size: 25px;
   font-weight: bold;
 }
@@ -38,16 +39,18 @@ body {
 .header-left {
   float: left;
   line-height: 20px;
+
 }
 
 .header-right {
+  padding-left: 10%;
   background-color: rgb(21, 28, 122);
 }
 
 #busqueda{
     margin-top: 1ch;
     margin-bottom: 1ch;
-    margin-right: 1ch;
+    margin-right: 11ch;
     margin-left: 1ch;
     float: right;   
 }
