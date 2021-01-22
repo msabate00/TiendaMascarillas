@@ -5,3 +5,26 @@
 .img-fluid{
     max-width: 70%;
 }
+
+.imagen-color{
+    max-width: 10% !important;
+}
+
+.descripcion{
+    border: 10px solid #6C525B;
+    background-color: #a780fe;
+    color: white !important;
+}
+
+.table{
+    color: white;
+    max-width: 20%;
+}
+
+.text-muted{
+    color: white !important;
+}
+
+.imagen_principal{
+    border: 10px solid #6C525B;
+}
