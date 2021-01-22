@@ -10,5 +10,17 @@
 .product-img{
     max-height: 250px;
     max-width: 250px;
+    width: 100%
+}
+.paddingt-5{
+    padding-top: 5%;
 }
 
+.paginacion{
+    background-color: #a780fe;
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+    padding: 5px 10px 5px 10px;
+    font-size: 22px;
+}
