@@ -1,7 +1,14 @@
+.bg-turquesa{
+    background-color: #b1ede8;
+}
+.border-slate{
+    border: Solid 5px #715798;
+}
+.texto-res{
+    font-size:1vw;
+}
+.product-img{
+    max-height: 250px;
+    max-width: 250px;
+}
 
-  .navbar {
-    margin-bottom: 50px;
-    border-radius: 0;
-  }
-
-  
