@@ -78,6 +78,15 @@ footer {
     margin-left: 1ch;
     float: right;   
 }
+#fondovideo{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    z-index: -1;
+    visibility: visible;
+}
 
 @media screen and (max-width: 500px) {
   .header a {
