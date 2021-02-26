@@ -30,8 +30,20 @@
     background-color: red;
     transition: 1s;
 }
+#rectangulo:hover{
+    width: 100px;
+    height: 75px;
+    background-color: blue;
+    transition: 1s;
+}
 #cuadrado{
     width: 30px;
+    height: 30px;
+    background-color: red;
+    transition: 1s;
+}
+#cuadrado:hover{
+    width: 60px;
     height: 30px;
     background-color: red;
     transition: 1s;
