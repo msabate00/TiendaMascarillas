@@ -1,0 +1,48 @@
+.bg-turquesa{
+    background-color: #b1ede8;
+}
+.border-slate{
+    border: Solid 5px #715798;
+}
+.texto-res{
+    font-size:1vw;
+}
+.product-img{
+    max-height: 250px;
+    max-width: 250px;
+    width: 100%
+}
+.paddingt-5{
+    padding-top: 5%;
+}
+
+.paginacion{
+    background-color: #a780fe;
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+    padding: 5px 10px 5px 10px;
+    font-size: 22px;
+}
+#rectangulo{
+    width: 400px;
+    height: 300px;
+    background-color: red;
+    transition: 1s;
+}
+#rectangulo:hover{
+    width: 100px;
+    height: 75px;
+    background-color: blue;
+    transition: 1s;
+}
+
+details[open] summary ~ * {
+    animation: sweep .5s ease-in-out;
+}
+
+@keyframes sweep {
+    0%    {opacity: 0; margin-left: -10px}
+    100%  {opacity: 1; margin-left: 0px}
+}
+
